@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Tony Green / Site Title"
+title                    : "Tony Green"
 title_separator          : "-"
 name                     : &name "Tony Green"
 description              : &description "Physics Instructor"
@@ -26,7 +26,7 @@ author:
   name             : "Tony Green"
   pronouns         : # example: "she/her"  
   bio              : "Masters Educated Physicist interested in the union between light, electricity, and quantum mechanics."
-  location         : "Earth"
+  location         : "Starkville, MS"
   employer         : "The Mississippi School for Mathematics and Science"
   uri              : # URL
   email            : "acmgreen178@gmail.com" 
