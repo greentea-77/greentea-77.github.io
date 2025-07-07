@@ -4,7 +4,7 @@ collection: teaching
 type: "Introductory Highschool Course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "The Mississippi School for Mathematics and Science, Physics"
-date: 2018
+date: 2018-01-01
 location: "Columbus MS, United States"
 ---
 
