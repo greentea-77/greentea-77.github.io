@@ -11,7 +11,6 @@ location: "Columbus MS, United States"
 Course Description
 ======
 
-Key:  |
 The class introduces a variety of topics in astronomy and astrophysics, including: the Earth and Moon system, 
 the sky and seasons, basic optical instruments, the origin of the solar system, the planetary geology of the terrestrial planets, 
 the outer solar system, recent scientific missions in astronomy, basic orbital mechanics, and the varieties of stars
