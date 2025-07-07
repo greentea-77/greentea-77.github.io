@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "Astronomy and Astrophysics"
 collection: teaching
-type: "Undergraduate course"
+type: "Introductory Highschool Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "The Mississippi School for Mathematics and Science, Physics"
+date: 2018-2020
+location: "Columbus MS, United States"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Course Description
 ======
 
-Heading 2
-======
+# Heading 2
+# ======
 
-Heading 3
-======
+# Heading 3
+# ======
