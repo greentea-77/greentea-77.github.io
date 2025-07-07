@@ -23,11 +23,11 @@ repository               : "greentea-77/greentea-77.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Tony Green"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Masters Educated Physicist interested in the union between light, electricity, and quantum mechanics."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "The Mississippi School for Mathematics and Science"
   uri              : # URL
   email            : "acmgreen178@gmail.com" 
 
